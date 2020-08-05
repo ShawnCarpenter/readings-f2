@@ -6,7 +6,7 @@ Real organisms are made up of linked systems of organs that are made of cells th
 
 React breaks down parts of the program into basic components, useful way of thinking and one I start every project with the full intention of implementing, by the end it becomes 'Get the code down, as long as it works it's OK' I need to get better at it, practice, practice, practice.... 
 
-# Callbact functions
+# Callback functions
 
 Why did I have trouble with the callback but not with the anonymous function in the code challenge? I'm missing something. Am I not understanding callbacks, or am I not understanding array.forEach?
 
