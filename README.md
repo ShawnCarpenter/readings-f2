@@ -7,4 +7,5 @@
 * [Reading 04a](read-04a.md)
 * [Reading 04b](read-04b.md)
 * [Reading 04c](read-04c.md)
-
+* [Reading 05a](read-05a.md)
+* [Reading 05b](read-05b.md)
