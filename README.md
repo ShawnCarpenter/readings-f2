@@ -9,3 +9,4 @@
 * [Reading 04c](read-04c.md)
 * [Reading 05a](read-05a.md)
 * [Reading 05b](read-05b.md)
+* [Reading 06](read-06.md)
