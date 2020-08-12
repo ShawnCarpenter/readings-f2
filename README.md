@@ -11,3 +11,4 @@
 * [Reading 05b](read-05b.md)
 * [Reading 06](read-06.md)
 * [Reading 07](read-07.md)
+* [Reading 08](read-08.md)
