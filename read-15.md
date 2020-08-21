@@ -10,4 +10,4 @@ We lost out on some good, creative technicians because of that.
 
 What can I do about this? I've never been in a position with enough authority to affect hiring decisions. I'm more representative of the problem. I recognize that as a straight white male I'm given a presumption of competence that is not given to others, how can I use that to allow other voices to be heard when I'm still in the lower levels of an organization?
 
-I don't know what I can do other than make sure to let other voices be heard and ask for their input where I have an opportunity to do so.
+I don't know what I can do other than make sure to let other voices be heard and ask for their input where I have an opportunity to do so
